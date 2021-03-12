@@ -6,7 +6,7 @@ After that you need to make a discord Server or if you already have one make a c
 access it. 
 
 After that make a webhook to the channel, copy the webhook link then open the python file using notepad and scroll down 
-till u see a webhook link, your gonna replace that link with your own. To test if you have done this right, run the file
+till u see a webhook link (line 89), your gonna replace that link with your own. To test if you have done this right, run the file
 and see if ur token pops up in the channel.
 
 Example: https://pasteboard.co/JShQnuN.png
